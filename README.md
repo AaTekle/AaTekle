@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron
-- I’m interested in learning how to code, intermediate Sophomore in College as of now (01/11/2023)
+- I’m interested in learning how to code, Sophomore in College as of now (01/11/2023)
 - I'm currently proficient in HTML and CSS.
 - I’m currently learning Python, hoping to learn more as time goes on!
 - God bless.
