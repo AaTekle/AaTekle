@@ -4,7 +4,7 @@
 
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21242053/aatekle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21242053/aatekle" height="30" width="40" /></a>
 
-<img src="{https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white}" />
+<img src="{https://website.aarontekle.repl.co/?style=for-the-badge&logo=About.me&logoColor=white}" />
 ______________________________________________________________________________________________
 
 <h3 align="left">About Me:</h3>
