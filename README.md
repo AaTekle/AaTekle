@@ -7,10 +7,8 @@
 - I'm currently proficient in HTML and CSS.
 - I’m currently learning Python, hoping to learn more as time goes on!
 - God bless.
-
-
-
-
+  
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **GitHub Stats**:
 
