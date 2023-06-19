@@ -1,15 +1,14 @@
-👋Hello, I’m Aaron!
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-______________________________________________________________________________________________
-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/aarontekle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aarontekle/" height="30" width="40" /></a>
+**👋Hello, I’m Aaron!**
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aarontekle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aarontekle/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21242053/aatekle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21242053/aatekle" height="30" width="40" /></a>
-</p>
+______________________________________________________________________________________________
 
-- 👋 Hi, I’m Aaron , Heres my Website: https://website.aarontekle.repl.co/
+<h3 align="left">About Me:</h3>
+<p align="left">  
 - I’m interested in learning how to code, Rising Junior in College as of now (06/14/2023)
-- I'm currently proficient in HTML and CSS.
-- I’m currently learning Python, hoping to learn more as time goes on!
+- I’m currently learning Python, hoping to learn more about Data Science/ML/DevOps/Linux/Web Development + more as time goes on!
 - God bless.
+</p>
 ______________________________________________________________________________________________________________________________________________________
 
 **Languages and Tools Used:**
