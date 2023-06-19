@@ -5,7 +5,8 @@
 ______________________________________________________________________________________________
 
 <h3 align="left">About Me:</h3>
-<p align="left">  
+<p align="left">
+  
 - I’m interested in learning how to code, Rising Junior in College as of now (06/14/2023)
   
 - I’m currently learning Python, hoping to learn more about Data Science/ML/DevOps/Linux/Web Development + more as time goes on!
