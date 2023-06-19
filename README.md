@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 **GitHub Stats**
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AaTekle)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaTekle)](https://github.com/AaTekle/github-readme-stats)
