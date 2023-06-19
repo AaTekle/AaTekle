@@ -2,10 +2,7 @@
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aarontekle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aarontekle/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21242053/aatekle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21242053/aatekle" height="30" width="40" /></a>
-
-<a href="https://website.aarontekle.repl.co" rel="nofollow">
-<imgsrc="https://camo.githubusercontent.com/55f57191d578b61d5a10e2a095a63443c1aaf0686d0d0e67fb292d18b29ccdc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506572736f6e616c20536974652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d736166617269266c6f676f436f6c6f723d7768697465" alt="Personal Website Badge" data-canonical-src="https://img.shields.io/badge/Personal Site-red?style=for-the-badge&amp;logo=safari&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+<a href="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21242053/aatekle" height="30" width="40" /></a>
 ______________________________________________________________________________________________
 
 <h3 align="left">About Me:</h3>
