@@ -9,7 +9,7 @@ ________________________________________________________________________________
   
 :desktop_computer: - I’m interested in learning how to code, Rising Junior in College as of now (06/14/2023)
   
-:deciduous_tree:	- I’m currently learning Python, hoping to learn more about Data Science/ML/Web Development + more as time goes on!
+:deciduous_tree:	- I’m currently learning Python, hoping to learn more about Data Science & ML + more as time goes on!
   
 :latin_cross:	- God bless.
 </p>
