@@ -7,7 +7,7 @@ ________________________________________________________________________________
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-:desktop_computer: - I’m interested in learning how to code, Rising Junior in College as of now (06/14/2023)
+:desktop_computer: - Rising Junior in College as of now (08/04/2023)
   
 :deciduous_tree:	- I’m currently learning Python, hoping to learn more about Data Science & ML + more as time goes on!
   
