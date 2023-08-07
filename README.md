@@ -9,7 +9,7 @@ ________________________________________________________________________________
   
 :desktop_computer: - Rising Junior in College as of now (08/04/2023)
   
-:deciduous_tree:	- I’m currently learning Python & Libraires built on top of Python, hoping to learn more about Data Science & ML + more as time goes on!
+:deciduous_tree:	- I’m currently learning Python & Libraires built on top of Python, hoping to learn more about Data Science/ML + more as time goes on!
   
 :latin_cross:	- God bless.
 </p>
