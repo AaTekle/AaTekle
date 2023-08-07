@@ -22,4 +22,3 @@ ________________________________________________________________________________
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/1741446.png" alt="Jupyter" width="40" height="40"/> </a> </p>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Jupyter" width="40" height="40"/> </a> </p>
