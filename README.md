@@ -7,7 +7,7 @@ ________________________________________________________________________________
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-:desktop_computer: - Rising Junior as of now (08/04/2023)
+:desktop_computer: - Rising Junior @ UMD (08/04/2023)
   
 :deciduous_tree:	- I’m currently learning Python & Libraires built on top of Python, hoping to learn more about Data Science/ML + more as time goes on!
   
