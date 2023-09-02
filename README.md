@@ -9,7 +9,7 @@ ________________________________________________________________________________
   
 :desktop_computer: - Junior @ UMD
   
-:deciduous_tree:	- I’m currently learning Python, R, & Libraires built on top of Python, hoping to learn more about Data Science, ML, & Deep Learning!
+:deciduous_tree:	- I’m currently learning Python, R, SQL & Libraires built on top of Python, hoping to learn more about Data Science, ML, & Deep Learning!
   
 :latin_cross:	- God bless.
 </p>
