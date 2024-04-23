@@ -9,7 +9,7 @@ ________________________________________________________________________________
   
 :desktop_computer: - Junior @ UMD
   
-:deciduous_tree:	- Learning/Building within Python, R, SQL. Topics of Interest: Data Science, ML, & DL!
+:deciduous_tree:	- Learning/Building within Python, R, SQL. Topics of Interest: NLP, ML, & DL!
   
 :latin_cross:	- God bless.
 </p>
