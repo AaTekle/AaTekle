@@ -7,7 +7,7 @@ ________________________________________________________________________________
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-:desktop_computer: - Junior @ UMD
+:desktop_computer: - Senior @ UMD
   
 :deciduous_tree:	- Learning/Building within Python, R, SQL. Topics of Interest: NLP, ML, & DL!
   
