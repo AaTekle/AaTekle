@@ -10,7 +10,7 @@ ________________________________________________________________________________
   
 :desktop_computer: - Senior @ UMD
   
-:deciduous_tree:	- Learning/Building within Python, R, SQL. Topics of Interest: NLP, ML, & DL!
+:deciduous_tree:	- Learning/Building within Python, R, SQL. Topics of Interest: NLP, Computer Vision
   
 :latin_cross:	- God bless.
 </p>
