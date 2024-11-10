@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <h3 align="left">Topics of Interest:</h3>
 <p align="left">
   
-- Financial Forecasting, NLP, Computer Vision
+Financial Forecasting, NLP, Computer Vision
   
 :latin_cross:
 </p>
