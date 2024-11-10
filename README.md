@@ -10,7 +10,7 @@ ________________________________________________________________________________
   
 Senior @ UMD
   
-Learning/Building within Python, R, SQL. Topics of Interest: Financial Forecasting, NLP, Computer Vision
+Topics of Interest: Financial Forecasting, NLP, Computer Vision
   
 :latin_cross:
 </p>
