@@ -8,9 +8,9 @@ ________________________________________________________________________________
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-:desktop_computer: - Senior @ UMD
+Senior @ UMD
   
-:deciduous_tree:	- Learning/Building within Python, R, SQL. Topics of Interest: NLP, Computer Vision
+Learning/Building within Python, R, SQL. Topics of Interest: Financial Forecasting, NLP, Computer Vision
   
-:latin_cross:	- God bless.
+:latin_cross:
 </p>
