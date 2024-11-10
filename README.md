@@ -8,8 +8,6 @@ ________________________________________________________________________________
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-Senior @ UMD
-  
 Topics of Interest: Financial Forecasting, NLP, Computer Vision
   
 :latin_cross:
