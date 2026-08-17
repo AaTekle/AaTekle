@@ -4,6 +4,6 @@
 </a>
 
 
-<a href="https://huggingface.co/AaronTekle" target="_blank">
+<a href="https://huggingface.co/AaronTekle" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </a>
