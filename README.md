@@ -1,6 +1,6 @@
 ## Traditional MLE (Machine Learning Engineer, Deep Learning Engineer) / Data Engineering Portfolio
 
-**Note:** Generative AI projects deployed via **Hugging Face**
+**Note:** (modern) Generative AI projects deployed via **Hugging Face**
 
 <a href="https://www.linkedin.com/in/aarontekle/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
