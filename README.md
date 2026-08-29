@@ -1,4 +1,4 @@
-## Traditional MLE (Machine Learning Engineer, Deep Learning Engineer) / Data Engineering Portfolio
+## Traditional MLE (Machine Learning Engineer) / Data Engineering Portfolio
 
 **Note:** (modern) Generative AI projects deployed via **Hugging Face**
 
